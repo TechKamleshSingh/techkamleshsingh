@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ConaxWeb Solution
+- 🌱 I’m currently learning Next Js 13
+- 👯 I’m looking to collaborate on Javascript & MERN
+- 📫 How to reach me: justKamleshSingh@gmail.com
 <!--
 **TechKamleshSingh/TechKamleshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
