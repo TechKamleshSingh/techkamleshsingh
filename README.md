@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ConaxWeb Solution
-- 🌱 I’m currently learning Next Js 13
+- 🔭 I’m currently working on Immutable Devs Infotech Pvt. Ltd.
+- 🌱 I’m currently learning Nest Js, Azure DevOps and MTTQ
 - 👯 I’m looking to collaborate on Javascript & MERN
 - 📫 How to reach me: justKamleshSingh@gmail.com
 <!--
