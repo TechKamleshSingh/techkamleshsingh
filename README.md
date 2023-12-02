@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ConaxWeb Solution
-- 🌱 I’m currently learning Next Js 13
+- 🌱 I’m currently learning Nest Js 
 - 👯 I’m looking to collaborate on Javascript & MERN
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
