@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Immutable Devs Infotech Pvt. Ltd.
-- 🌱 I’m currently learning Nest Js, Azure DevOps and MTTQ
-- 👯 I’m looking to collaborate on Javascript & MERN
+- 🌱 I’m currently learning Nest Js, Azure Services
+- 👯 I’m looking to collaborate on Javascript & MERN 
 - 📫 How to reach me: justKamleshSingh@gmail.com
 <!--
 **TechKamleshSingh/TechKamleshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
