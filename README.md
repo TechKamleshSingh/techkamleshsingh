@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Immutable Devs Infotech Pvt. Ltd.
-- 🌱 I’m currently learning Nest Js, Azure Services
+- 🌱 I’m currently learning Nest Js, Azure Cloud
 - 👯 I’m looking to collaborate on Javascript & MERN 
 - 📫 How to reach me: justKamleshSingh@gmail.com
 <!--
