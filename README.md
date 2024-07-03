@@ -13,8 +13,9 @@
 -              > Online international shipping
 - 💞️ I’m looking to collaborate on any project.
 - 📫 Reach me at: justKamleshSingh@gmail.com
--     <a href="https://www.linkedin.com/in/justkamleshsingh/">LinkedIn</a>
 
+-   Connect with:
+-   [LinkedIn](https://www.linkedin.com/in/justkamleshsingh/)
 
 <!--
 **TechKamleshSingh/TechKamleshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
