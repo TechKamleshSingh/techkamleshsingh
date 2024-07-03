@@ -1,9 +1,21 @@
-### Hi there 👋
+- 👋 Hi, I’m @truekamleshsingh
 
-- 🔭 I’m currently working on Immutable Devs Infotech Pvt. Ltd.
-- 🌱 I’m currently learning Nest Js, Azure Cloud
-- 👯 I’m looking to collaborate on Javascript & MERN 
-- 📫 How to reach me: justKamleshSingh@gmail.com
+- 🌱 I’m currently learning:
+-              > DSA (Yeah! I skipped it thinking its not important.)
+-              > To contribute on OSS.
+-              > Nest Js, Azure Cloud, Supabse, Prisma & next js latest
+-    Working on:
+-              > Chat application using socket.io.
+-              > And some static pages to learn user-friendly UI.
+-    Previous Experience:
+-              > Integrated Stripe Payment
+-              > Worked on a property management system
+-              > Online international shipping
+- 💞️ I’m looking to collaborate on any project.
+- 📫 Reach me at: justKamleshSingh@gmail.com
+-     <a href="https://www.linkedin.com/in/justkamleshsingh/">LinkedIn</a>
+
+
 <!--
 **TechKamleshSingh/TechKamleshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
