@@ -15,7 +15,7 @@
 - 📫 Reach me at: justKamleshSingh@gmail.com
 
 -   Connect with:
--       > [LinkedIn](https://www.linkedin.com/in/justkamleshsingh/)
+-   [LinkedIn](https://www.linkedin.com/in/justkamleshsingh/)
 
 <!--
 **TechKamleshSingh/TechKamleshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
