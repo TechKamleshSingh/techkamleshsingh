@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @truekamleshsingh
 
 - 🌱 I’m currently learning:
--              > DSA (Yeah! I skipped it thinking its not important.)
--              > To contribute on OSS.
 -              > Nest Js, Azure Cloud, Supabse, Prisma & next js latest
 -    Working on:
 -              > Chat application using socket.io.
